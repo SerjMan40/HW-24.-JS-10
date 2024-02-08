@@ -89,3 +89,8 @@ body {
 .indicator.active {
   background-color: indigo;
 }
+
+.control-pause > span {
+  position: absolute;
+  opacity: 0;
+}
